@@ -1,0 +1,157 @@
+# **Teamwork Contract**
+
+**Team 6**  
+**Team Members:** Alec Snodgrass, George Vaporis, Landon Paul, Nathan Galloway   
+*Electrical and Computer Engineering Department*  
+*Tennessee Technological University*
+
+## **Introduction**
+
+*This teamwork contract outlines the agreed-upon expectations, responsibilities, and guidelines for effective collaboration among the members of Team 6. By adhering to this contract, we aim to foster a productive, respectful, and supportive team environment conducive to the success of our project.*
+
+## **Team Expectations**
+
+### **1. Participation** 
+
+- **Each team member is expected to:** 
+  - Responsibly attend all team meetings
+  - Notify (text AND email) the team in advance if unable to attend a meeting or meet an obligation. The team manager will document tardiness via email at his discretion. 
+  - Actively participate in all team meetings and discussions.
+  - Engage fully in project activities and contribute ideas.
+
+### **2. Contribution** 
+
+- **Each team member is expected to:** 
+  - Complete assigned tasks diligently and on time.
+  - Contribute equal effort to the project's progress.
+  - Share expertise and assist others when needed.
+
+### **3. Communication**
+
+- **Team communication should be:** 
+  - Professional, respectful, and considerate.
+  - Conducted through Discord, text message, and emails.
+  - Responsive, with replies to inquiries within 12 hours.
+
+### **4. Meetings**
+
+- **Regarding team meetings:** 
+  - **Frequency:** The team will meet once a week at 1430 on Mondays. 1430 on Wednesdays and anytime on Fridays, as needed. Meetings can be canceled by unanimous decision. 
+  - **Attendance:** Members are expected to attend all meetings; absences should be communicated in advance.
+  - **Preparation:** Members should come prepared, having completed any agreed-upon tasks or research.
+
+### **5. Conduct**
+
+- **Team members will:** 
+  - Treat each other with respect and courtesy.
+  - Listen actively and allow others to express their ideas without interruption.
+  - Address disagreements professionally and constructively.
+
+### **6. Conflict Resolution**
+
+- **The team will:** 
+  - Address conflicts promptly through open dialogue.
+  - Use a step-by-step approach to resolve issues:
+    1. Discuss the issue privately between the involved parties.
+    2. If unresolved, bring the issue to the team for discussion.
+    3. Seek input from the instructor if necessary.
+  - Focus on finding mutually acceptable solutions.
+
+### **7. Deadlines**
+
+- **Regarding deadlines:** 
+  - All team-set and instructor-set deadlines are to be met.
+  - If a member anticipates difficulty meeting a deadline, they must inform the team as soon as possible.
+  - To move the deadline, a majority vote is required by the
+  - The team will collaboratively adjust workloads to ensure project timelines are maintained.
+
+### **8. Consequences**
+
+- **Progression:** The following will be issued to and paid for by the offender:
+  1. Verbal team warning – Sing a song at the next team meeting.
+  2. Written documentation – Sing a song and bring Chick-fil-A chicken tenders to the next team meeting.
+  3. Instructor involvement – Sing a song at the team sit-down dinner with Dr. Storm.
+  - The team will pick the song to be sung by the offender
+
+### **9. Continual Progress**
+
+- **Expectation:**
+  - Constant work on assigned tasks is expected. Team members are to avoid procrastination. 
+  - During regularly scheduled school weeks, team members are to record daily progress and efforts.
+    - A log should be created daily, even if no progress was made that day. 
+    - Submission of the weekly log should be presentable upon request at group meetings. 
+    - The purpose of these logs and log presentations is to ensure constant effort and to showcase individual contributions.
+      - This showcase will allow team members to easily, and hopefully positively, review teammates.
+
+
+## **Unique Roles**
+
+
+### **Team Manager:** Alec Snodgrass
+
+- **Responsibilities:**
+  - Schedule and coordinate team meetings.
+  - Facilitate meetings to ensure all voices are heard.
+  - Monitor project timelines and milestones.
+  - Oversee subsystem integration and be cognizant of overarching goals.
+- **Powers Granted:**
+  - Authority to make minor decisions to keep the project on track after team consultation.
+  - Authority to impose deadlines for project inputs on team members.
+  - Request updates and submissions from team members regarding assigned tasks.
+  - Authority to enforce team bonding or reconciliation activities.  
+- **Expectation Changes:**
+  - In addition to regular duties, the Team Manager will assign and track taskings, handle organizational tasks, and remain equally responsible for project work.
+
+### **Secretary:** Landon Paul
+
+- **Responsibilities:**
+  - Take detailed notes during meetings.
+  - Distribute meeting minutes to all team members within 24 hours.
+- **Powers Granted:**
+  - May request clarifications during meetings to ensure accurate record-keeping.
+- **Expectation Changes:**
+  - Ensures documentation is maintained without reducing their responsibility in other project areas.
+
+### **Public Affairs Representative:** Nathan Galloway
+
+- **Responsibilities:**
+  - Team morale
+  - Human resources
+  - Community relations manager
+- **Powers Granted:**
+  - Authority to ignore normal social rules
+  - Immune to depression
+- **Expectation Changes:**
+  - Manages and coordinates external affairs. 
+
+
+## **Additional Clauses**
+
+### **Amendments** 
+This Team Contract may be amended by a majority vote and instructor approval at any time throughout the year. 
+
+### **Work Reassignment**
+
+If a team member repeatedly fails to meet assigned responsibilities or deadlines, the team may, by majority vote, reassign tasks or redistribute workload to maintain project progress. Such actions will be documented and may be reported to the instructor if necessary.
+
+### **Accountability & Evaluation**
+
+Consistent imbalance in contribution, participation, or responsiveness may be documented and considered in individual grading or formally reported to the instructor.
+
+### **Use of Artificial Intelligence**
+
+Artificial intelligence tools may be used only for limited support purposes such as brainstorming, proofreading, or debugging, unless otherwise permitted. AI tools may not be used to generate final technical content, code, analysis, reports, or any other text-based due-out. All submitted work must reflect the team’s own understanding and effort.
+
+### **Plagiarism**
+
+Any form of plagiarism will result in instructor involvement and may require rework or additional disciplinary action in accordance with course policy.
+
+
+## **Team Member Signatures**
+
+By typing our names below, we acknowledge that we have read, understand, and agree to abide by the terms of this Teamwork Contract.
+
+Alec Snodgrass  
+George Vaporis  
+Landon Paul  
+Nathan Galloway 
