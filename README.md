@@ -1,6 +1,4 @@
-# {Name of the Project} - Your project should have a catchy and functional name
-
-The descriptions and information in all readme files in the starter repo (including this one) must be edited. All section descriptions must be deleted. Any failure to remove the description information (like the statement that you are currently reading) will be heavily penalized!
+# Lani Solar Partnership: Self-Sustaining, Renewable Energy Vehicle 
 
 ## Executive Summary
 
@@ -40,16 +38,22 @@ Alec Snodgrass is a senior double major in Electrical Engineering and Physics se
 
 #### Parker Branson
 
+---
+
 ### Faculty Supervisor
 
 Tell who the faculty supervisor was for the project
 
+---
+
 ### Stakeholders
 Tell a bit about the customer for the project. Also discuss any other groups (specific or general) that are expected to be impacted by the project.
 
-The primary customer for this project is Lani Electric Vehicles (LaniEV), a subsidiary of Lani Solar, LLC. LaniEV is developing standardized retrofit conversion kits for low-speed electric vehicles (LSVs) that replace legacy lead-acid battery systems with LiFePO₄ battery banks integrated with solar charging capability. The company’s objective is to enable scalable fleet conversions by providing a structured and repeatable retrofit platform supported by validated engineering documentation.
+The primary customer for this project is Lani Electric Vehicles (LaniEV), a subsidiary of Lani Solar, LLC. Lani Solar develops solar-integrated mobility platforms and energy solutions intended to reduce grid dependence and lifecycle operating costs in light electric vehicle applications. LaniEV is developing standardized retrofit conversion kits for low-speed electric vehicles (LSVs), personal transportation vehicles (PTVs), and golf cars that replace legacy lead-acid battery systems with LiFePO₄ battery banks integrated with solar charging capability. The company’s objective is to enable scalable fleet conversions by providing a structured and repeatable retrofit platform supported by validated engineering documentation.
 
 Secondary stakeholders include organizations that utilize LSV fleets, such as golf resorts, hotels, universities, airports, and industrial plants. Organizations such as these rely on LSVs for day-to-day logistics and are directly affected by reliability, lifecycle cost, and maintenance requirements. Formal documentation of the retrofit process and post-conversion performance data provides decision-making support for these stakeholders by enabling informed evaluation of economic and operational impact.
+
+---
 
 ### Recognitions
 
