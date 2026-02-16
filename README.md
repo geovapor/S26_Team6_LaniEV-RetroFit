@@ -1,6 +1,4 @@
-# {Name of the Project} - Your project should have a catchy and functional name
-
-The descriptions and information in all readme files in the starter repo (including this one) must be edited. All section descriptions must be deleted. Any failure to remove the description information (like the statement that you are currently reading) will be heavily penalized!
+# Lani Solar Partnership: Self-Sustaining, Renewable Energy Vehicle 
 
 ## Executive Summary
 
@@ -27,16 +25,35 @@ Below the video link show some well-taken, appropriately sized images of the pro
 ## About Us
 
 ### Team
+Give a brief bio for each team member and their broad contribution to the project (no need to be terribly specific).
 
-Give a brief bio for each team member and their broad contribution to the project (no need to be terribly specifc).
+#### Alec Snodgrass 
+Alec Snodgrass is a senior double major in Electrical Engineering and Physics serving as the team lead for this capstone project. He is responsible for project management, external communication with the industry sponsor, and oversight of subsystems integration. His prior physics research capstone experience contributes to structured experimental design, data analysis, and methodology development. In addition to managerial responsibilities, he maintains equal technical contribution. His prior military leadership experience informs his organizational approach and accountability standards in managing a multi-member engineering team.
+
+#### George Vaporis  
+
+#### Landon Paul  
+
+#### Nathan Galloway 
+
+#### Parker Branson
+
+---
 
 ### Faculty Supervisor
 
 Tell who the faculty supervisor was for the project
 
-### Stakeholders
+---
 
+### Stakeholders
 Tell a bit about the customer for the project. Also discuss any other groups (specific or general) that are expected to be impacted by the project.
+
+The primary customer for this project is Lani Electric Vehicles (LaniEV), a subsidiary of Lani Solar, LLC. Lani Solar develops solar-integrated mobility platforms and energy solutions intended to reduce grid dependence and lifecycle operating costs in light electric vehicle applications. LaniEV is developing standardized retrofit conversion kits for low-speed electric vehicles (LSVs), personal transportation vehicles (PTVs), and golf cars that replace legacy lead-acid battery systems with LiFePO₄ battery banks integrated with solar charging capability. The company’s objective is to enable scalable fleet conversions by providing a structured and repeatable retrofit platform supported by validated engineering documentation.
+
+Secondary stakeholders include organizations that utilize LSV fleets, such as golf resorts, hotels, universities, airports, and industrial plants. Organizations such as these rely on LSVs for day-to-day logistics and are directly affected by reliability, lifecycle cost, and maintenance requirements. Formal documentation of the retrofit process and post-conversion performance data provides decision-making support for these stakeholders by enabling informed evaluation of economic and operational impact.
+
+---
 
 ### Recognitions
 
@@ -47,14 +64,35 @@ Use this space to recognize anyone that you feel has had an impact on the projec
 Give the layout of the repo and what can be found where. Make it easy on those who are interested by making the headings of the various things in this section clickable links to the relevant folder or file in the repo.
 
 
-### Reports
+### 1. Reports
 
-In the reports section of this repository information about the individual expectations for the reports and how they should be housed is provided.
+    Poster Template
+    0. Team 6 Contract
+    1. Project Proposal Specification
+    2. Conceptual Design Specifications
+    3. Detailed Design Specifications
+    4. Design Presentation Specifications
+    5. Experimental Analysis Specifications
+    6. Individual Presentation Specifications
+    7. Final Presentation Specifications
+    8. Final Poster Specifications
 
-### Documentation
 
-In the documentaion section information regarding the documentation that is required and how it should be organized is given.
+### 2. Documentation
 
-### Software
+    0. Project Details
+        - Club Car Manuals
+        - Standards_Codes
+        - Project Outline
+    1. Photos
+        - 0. Initial State of LSV
+        - 1. Conversion Process
+        - 2. Post-conversion
+    2. Electrical
+        - PCB
+        - Schematics
+    
+    3. Software
 
-In the software directory of the repo information regarding how each team is expected to document software can be found.
+### 3. Meeting Minutes
+
