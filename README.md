@@ -31,6 +31,7 @@ Give a brief bio for each team member and their broad contribution to the projec
 Alec Snodgrass is a senior double major in Electrical Engineering and Physics serving as the team lead for this capstone project. He is responsible for project management, external communication with the industry sponsor, and oversight of subsystems integration. His prior physics research capstone experience contributes to structured experimental design, data analysis, and methodology development. In addition to managerial responsibilities, he maintains equal technical contribution. His prior military leadership experience informs his organizational approach and accountability standards in managing a multi-member engineering team.
 
 #### George Vaporis  
+George Vaporis is a senior at Tennessee Technological University majoring in Electrical Engineering. He is responsible for completing all tasks assigned in a manner of good quality and timeliness. He has previous experience in working in group projects that have involved coding, building, and information gathering and analysis, giving him the necessary experience to complete any tasks assigned for this project.
 
 #### Landon Paul  
 
